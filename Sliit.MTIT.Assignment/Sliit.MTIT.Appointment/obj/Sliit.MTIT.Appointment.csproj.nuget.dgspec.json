@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My\\SLIIT\\4th Year First Semester\\MTIT\\MTIT_3\\Sliit.MTIT.Assignment\\Sliit.MTIT.Appointment\\Sliit.MTIT.Appointment.csproj": {}
+    "C:\\Users\\Pramodi\\source\\repos\\Hospital-management-system\\Hospital-management-system\\Sliit.MTIT.Assignment\\Sliit.MTIT.Appointment\\Sliit.MTIT.Appointment.csproj": {}
   },
   "projects": {
-    "D:\\My\\SLIIT\\4th Year First Semester\\MTIT\\MTIT_3\\Sliit.MTIT.Assignment\\Sliit.MTIT.Appointment\\Sliit.MTIT.Appointment.csproj": {
+    "C:\\Users\\Pramodi\\source\\repos\\Hospital-management-system\\Hospital-management-system\\Sliit.MTIT.Assignment\\Sliit.MTIT.Appointment\\Sliit.MTIT.Appointment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My\\SLIIT\\4th Year First Semester\\MTIT\\MTIT_3\\Sliit.MTIT.Assignment\\Sliit.MTIT.Appointment\\Sliit.MTIT.Appointment.csproj",
+        "projectUniqueName": "C:\\Users\\Pramodi\\source\\repos\\Hospital-management-system\\Hospital-management-system\\Sliit.MTIT.Assignment\\Sliit.MTIT.Appointment\\Sliit.MTIT.Appointment.csproj",
         "projectName": "Sliit.MTIT.Appointment",
-        "projectPath": "D:\\My\\SLIIT\\4th Year First Semester\\MTIT\\MTIT_3\\Sliit.MTIT.Assignment\\Sliit.MTIT.Appointment\\Sliit.MTIT.Appointment.csproj",
-        "packagesPath": "C:\\Users\\94711\\.nuget\\packages\\",
-        "outputPath": "D:\\My\\SLIIT\\4th Year First Semester\\MTIT\\MTIT_3\\Sliit.MTIT.Assignment\\Sliit.MTIT.Appointment\\obj\\",
+        "projectPath": "C:\\Users\\Pramodi\\source\\repos\\Hospital-management-system\\Hospital-management-system\\Sliit.MTIT.Assignment\\Sliit.MTIT.Appointment\\Sliit.MTIT.Appointment.csproj",
+        "packagesPath": "C:\\Users\\Pramodi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pramodi\\source\\repos\\Hospital-management-system\\Hospital-management-system\\Sliit.MTIT.Assignment\\Sliit.MTIT.Appointment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\94711\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pramodi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

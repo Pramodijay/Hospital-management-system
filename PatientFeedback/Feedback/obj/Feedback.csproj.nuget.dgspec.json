@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ishara Gamage\\source\\repos\\PatientFeedback\\Feedback\\Feedback.csproj": {}
+    "C:\\Users\\Pramodi\\source\\repos\\Hospital-management-system\\Hospital-management-system\\PatientFeedback\\Feedback\\Feedback.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ishara Gamage\\source\\repos\\PatientFeedback\\Feedback\\Feedback.csproj": {
+    "C:\\Users\\Pramodi\\source\\repos\\Hospital-management-system\\Hospital-management-system\\PatientFeedback\\Feedback\\Feedback.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ishara Gamage\\source\\repos\\PatientFeedback\\Feedback\\Feedback.csproj",
+        "projectUniqueName": "C:\\Users\\Pramodi\\source\\repos\\Hospital-management-system\\Hospital-management-system\\PatientFeedback\\Feedback\\Feedback.csproj",
         "projectName": "Feedback",
-        "projectPath": "C:\\Users\\Ishara Gamage\\source\\repos\\PatientFeedback\\Feedback\\Feedback.csproj",
-        "packagesPath": "C:\\Users\\Ishara Gamage\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ishara Gamage\\source\\repos\\PatientFeedback\\Feedback\\obj\\",
+        "projectPath": "C:\\Users\\Pramodi\\source\\repos\\Hospital-management-system\\Hospital-management-system\\PatientFeedback\\Feedback\\Feedback.csproj",
+        "packagesPath": "C:\\Users\\Pramodi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pramodi\\source\\repos\\Hospital-management-system\\Hospital-management-system\\PatientFeedback\\Feedback\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Ishara Gamage\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Pramodi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

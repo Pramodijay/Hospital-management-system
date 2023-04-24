@@ -30,3 +30,35 @@ D:\My\SLIIT\4th Year First Semester\MTIT\MTIT_3\Sliit.MTIT.Assignment\Sliit.MTIT
 D:\My\SLIIT\4th Year First Semester\MTIT\MTIT_3\Sliit.MTIT.Assignment\Sliit.MTIT.Appointment\obj\Debug\net6.0\Sliit.MTIT.Appointment.pdb
 D:\My\SLIIT\4th Year First Semester\MTIT\MTIT_3\Sliit.MTIT.Assignment\Sliit.MTIT.Appointment\obj\Debug\net6.0\Sliit.MTIT.Appointment.genruntimeconfig.cache
 D:\My\SLIIT\4th Year First Semester\MTIT\MTIT_3\Sliit.MTIT.Assignment\Sliit.MTIT.Appointment\obj\Debug\net6.0\ref\Sliit.MTIT.Appointment.dll
+C:\Users\Pramodi\source\repos\Hospital-management-system\Hospital-management-system\Sliit.MTIT.Assignment\Sliit.MTIT.Appointment\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Pramodi\source\repos\Hospital-management-system\Hospital-management-system\Sliit.MTIT.Assignment\Sliit.MTIT.Appointment\bin\Debug\net6.0\appsettings.json
+C:\Users\Pramodi\source\repos\Hospital-management-system\Hospital-management-system\Sliit.MTIT.Assignment\Sliit.MTIT.Appointment\bin\Debug\net6.0\Sliit.MTIT.Appointment.exe
+C:\Users\Pramodi\source\repos\Hospital-management-system\Hospital-management-system\Sliit.MTIT.Assignment\Sliit.MTIT.Appointment\bin\Debug\net6.0\Sliit.MTIT.Appointment.deps.json
+C:\Users\Pramodi\source\repos\Hospital-management-system\Hospital-management-system\Sliit.MTIT.Assignment\Sliit.MTIT.Appointment\bin\Debug\net6.0\Sliit.MTIT.Appointment.runtimeconfig.json
+C:\Users\Pramodi\source\repos\Hospital-management-system\Hospital-management-system\Sliit.MTIT.Assignment\Sliit.MTIT.Appointment\bin\Debug\net6.0\Sliit.MTIT.Appointment.dll
+C:\Users\Pramodi\source\repos\Hospital-management-system\Hospital-management-system\Sliit.MTIT.Assignment\Sliit.MTIT.Appointment\bin\Debug\net6.0\Sliit.MTIT.Appointment.pdb
+C:\Users\Pramodi\source\repos\Hospital-management-system\Hospital-management-system\Sliit.MTIT.Assignment\Sliit.MTIT.Appointment\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Pramodi\source\repos\Hospital-management-system\Hospital-management-system\Sliit.MTIT.Assignment\Sliit.MTIT.Appointment\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pramodi\source\repos\Hospital-management-system\Hospital-management-system\Sliit.MTIT.Assignment\Sliit.MTIT.Appointment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pramodi\source\repos\Hospital-management-system\Hospital-management-system\Sliit.MTIT.Assignment\Sliit.MTIT.Appointment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pramodi\source\repos\Hospital-management-system\Hospital-management-system\Sliit.MTIT.Assignment\Sliit.MTIT.Appointment\obj\Debug\net6.0\Sliit.MTIT.Appointment.csproj.AssemblyReference.cache
+C:\Users\Pramodi\source\repos\Hospital-management-system\Hospital-management-system\Sliit.MTIT.Assignment\Sliit.MTIT.Appointment\obj\Debug\net6.0\Sliit.MTIT.Appointment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pramodi\source\repos\Hospital-management-system\Hospital-management-system\Sliit.MTIT.Assignment\Sliit.MTIT.Appointment\obj\Debug\net6.0\Sliit.MTIT.Appointment.AssemblyInfoInputs.cache
+C:\Users\Pramodi\source\repos\Hospital-management-system\Hospital-management-system\Sliit.MTIT.Assignment\Sliit.MTIT.Appointment\obj\Debug\net6.0\Sliit.MTIT.Appointment.AssemblyInfo.cs
+C:\Users\Pramodi\source\repos\Hospital-management-system\Hospital-management-system\Sliit.MTIT.Assignment\Sliit.MTIT.Appointment\obj\Debug\net6.0\Sliit.MTIT.Appointment.csproj.CoreCompileInputs.cache
+C:\Users\Pramodi\source\repos\Hospital-management-system\Hospital-management-system\Sliit.MTIT.Assignment\Sliit.MTIT.Appointment\obj\Debug\net6.0\Sliit.MTIT.Appointment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pramodi\source\repos\Hospital-management-system\Hospital-management-system\Sliit.MTIT.Assignment\Sliit.MTIT.Appointment\obj\Debug\net6.0\Sliit.MTIT.Appointment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pramodi\source\repos\Hospital-management-system\Hospital-management-system\Sliit.MTIT.Assignment\Sliit.MTIT.Appointment\obj\Debug\net6.0\staticwebassets\msbuild.Sliit.MTIT.Appointment.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pramodi\source\repos\Hospital-management-system\Hospital-management-system\Sliit.MTIT.Assignment\Sliit.MTIT.Appointment\obj\Debug\net6.0\staticwebassets\msbuild.build.Sliit.MTIT.Appointment.props
+C:\Users\Pramodi\source\repos\Hospital-management-system\Hospital-management-system\Sliit.MTIT.Assignment\Sliit.MTIT.Appointment\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Sliit.MTIT.Appointment.props
+C:\Users\Pramodi\source\repos\Hospital-management-system\Hospital-management-system\Sliit.MTIT.Assignment\Sliit.MTIT.Appointment\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Sliit.MTIT.Appointment.props
+C:\Users\Pramodi\source\repos\Hospital-management-system\Hospital-management-system\Sliit.MTIT.Assignment\Sliit.MTIT.Appointment\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Pramodi\source\repos\Hospital-management-system\Hospital-management-system\Sliit.MTIT.Assignment\Sliit.MTIT.Appointment\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Pramodi\source\repos\Hospital-management-system\Hospital-management-system\Sliit.MTIT.Assignment\Sliit.MTIT.Appointment\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Pramodi\source\repos\Hospital-management-system\Hospital-management-system\Sliit.MTIT.Assignment\Sliit.MTIT.Appointment\obj\Debug\net6.0\scopedcss\bundle\Sliit.MTIT.Appointment.styles.css
+C:\Users\Pramodi\source\repos\Hospital-management-system\Hospital-management-system\Sliit.MTIT.Assignment\Sliit.MTIT.Appointment\obj\Debug\net6.0\Sliit.MTIT.Appointment.csproj.CopyComplete
+C:\Users\Pramodi\source\repos\Hospital-management-system\Hospital-management-system\Sliit.MTIT.Assignment\Sliit.MTIT.Appointment\obj\Debug\net6.0\Sliit.MTIT.Appointment.dll
+C:\Users\Pramodi\source\repos\Hospital-management-system\Hospital-management-system\Sliit.MTIT.Assignment\Sliit.MTIT.Appointment\obj\Debug\net6.0\refint\Sliit.MTIT.Appointment.dll
+C:\Users\Pramodi\source\repos\Hospital-management-system\Hospital-management-system\Sliit.MTIT.Assignment\Sliit.MTIT.Appointment\obj\Debug\net6.0\Sliit.MTIT.Appointment.pdb
+C:\Users\Pramodi\source\repos\Hospital-management-system\Hospital-management-system\Sliit.MTIT.Assignment\Sliit.MTIT.Appointment\obj\Debug\net6.0\Sliit.MTIT.Appointment.genruntimeconfig.cache
+C:\Users\Pramodi\source\repos\Hospital-management-system\Hospital-management-system\Sliit.MTIT.Assignment\Sliit.MTIT.Appointment\obj\Debug\net6.0\ref\Sliit.MTIT.Appointment.dll

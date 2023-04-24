@@ -877,24 +877,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ishara Gamage\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Pramodi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ishara Gamage\\source\\repos\\PatientFeedback\\Feedback.Ocelote\\Feedback.Ocelote.csproj",
+      "projectUniqueName": "C:\\Users\\Pramodi\\source\\repos\\Hospital-management-system\\Hospital-management-system\\PatientFeedback\\Feedback.Ocelote\\Feedback.Ocelote.csproj",
       "projectName": "Feedback.Ocelote",
-      "projectPath": "C:\\Users\\Ishara Gamage\\source\\repos\\PatientFeedback\\Feedback.Ocelote\\Feedback.Ocelote.csproj",
-      "packagesPath": "C:\\Users\\Ishara Gamage\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ishara Gamage\\source\\repos\\PatientFeedback\\Feedback.Ocelote\\obj\\",
+      "projectPath": "C:\\Users\\Pramodi\\source\\repos\\Hospital-management-system\\Hospital-management-system\\PatientFeedback\\Feedback.Ocelote\\Feedback.Ocelote.csproj",
+      "packagesPath": "C:\\Users\\Pramodi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Pramodi\\source\\repos\\Hospital-management-system\\Hospital-management-system\\PatientFeedback\\Feedback.Ocelote\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Ishara Gamage\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Pramodi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
