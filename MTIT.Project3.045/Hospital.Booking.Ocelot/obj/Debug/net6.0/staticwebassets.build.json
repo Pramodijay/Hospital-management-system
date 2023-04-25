@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jFbAHateqOdUGVX8Ma6hOEjzoBPCfbWl4aoPVJJE9iY=",
+  "Source": "Hospital.Booking.Ocelot",
+  "BasePath": "_content/Hospital.Booking.Ocelot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
