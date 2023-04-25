@@ -673,19 +673,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\danus\\.nuget\\packages\\": {}
+    "C:\\Users\\Pramodi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danus\\source\\repos\\MTIT.Project3.045\\Hospital.Booking\\Hospital.Booking.csproj",
+      "projectUniqueName": "C:\\Users\\Pramodi\\source\\repos\\Hospital-management-system\\Hospital-management-system\\MTIT.Project3.045\\Hospital.Booking\\Hospital.Booking.csproj",
       "projectName": "Hospital.Booking",
-      "projectPath": "C:\\Users\\danus\\source\\repos\\MTIT.Project3.045\\Hospital.Booking\\Hospital.Booking.csproj",
-      "packagesPath": "C:\\Users\\danus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danus\\source\\repos\\MTIT.Project3.045\\Hospital.Booking\\obj\\",
+      "projectPath": "C:\\Users\\Pramodi\\source\\repos\\Hospital-management-system\\Hospital-management-system\\MTIT.Project3.045\\Hospital.Booking\\Hospital.Booking.csproj",
+      "packagesPath": "C:\\Users\\Pramodi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Pramodi\\source\\repos\\Hospital-management-system\\Hospital-management-system\\MTIT.Project3.045\\Hospital.Booking\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\danus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Pramodi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
