@@ -1,32 +1,80 @@
 {
-  "GlobalConfiguration": {
-    "BaseUrl": "http://localhost:5071"
-  },
-  "Routes": [
-    {
-      "UpstreamPathTemplate": "/gateway/feedback",
-      "UpstreamHttpMethod": [ "Get" ],
-      "DownstreamPathTemplate": "/api/feedback",
-      "DownstreamScheme": "http",
-      "DownstreamHostAndPorts": [
-        {
-          "Host": "localhost",
-          "Port": 5176
-        }
-      ]
+    "GlobalConfiguration": {
+        "BaseUrl": "http://localhost:5071"
     },
-    {
-      "UpstreamPathTemplate": "/gateway/feedback/{Id}",
-      "UpstreamHttpMethod": [ "Get" ],
-      "DownstreamPathTemplate": "/api/feedback/{Id}",
-      "DownstreamScheme": "http",
-      "DownstreamHostAndPorts": [
+    "Routes": [
         {
-          "Host": "localhost",
-          "Port": 5176
-        }
-      ]
-    }
+            "UpstreamPathTemplate": "/gateway/feedback",
+            "UpstreamHttpMethod": [ "Get" ],
+            "DownstreamPathTemplate": "/api/feedback",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 5176
+                }
+            ]
+        },
+        {
+            "UpstreamPathTemplate": "/gateway/feedback/{Id}",
+            "UpstreamHttpMethod": [ "Get" ],
+            "DownstreamPathTemplate": "/api/feedback/{Id}",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 5176
+                }
+            ]
 
-  ]
-}
+
+
+
+        },
+        {
+            "UpstreamPathTemplate": "/gateway/student/{Id}",
+            "UpstreamHttpMethod": [ "Get" ],
+            "DownstreamPathTemplate": "/api/student/{Id}",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 5176
+                }
+            ]
+
+
+
+        },
+        {
+            "UpstreamPathTemplate": "/gateway/student/{Id}",
+            "UpstreamHttpMethod": [ "Get" ],
+            "DownstreamPathTemplate": "/api/student/{Id}",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 5176
+                }
+            ]
+        }
+
+    ],
+   
+        
+            "UpstreamPathTemplate": "/gateway/patient/{Id}",
+            "UpstreamHttpMethod": [ "Get" ],
+            "DownstreamPathTemplate": "/api/patient/{Id}",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 5176
+                }
+            ]
+        }
+
+    
+
+
+

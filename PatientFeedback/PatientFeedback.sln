@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sliit.MTIT.Appointment", ".
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Patient", "..\..\..\Assignment 4\Patient\Patient.csproj", "{E50757DA-F799-4130-A0C3-0037CC1B9B65}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Feedback.Ocelote", "Feedback.Ocelote\Feedback.Ocelote.csproj", "{A8892FE7-2FD7-4142-A4C4-048A0AAF8E91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{E50757DA-F799-4130-A0C3-0037CC1B9B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E50757DA-F799-4130-A0C3-0037CC1B9B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E50757DA-F799-4130-A0C3-0037CC1B9B65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8892FE7-2FD7-4142-A4C4-048A0AAF8E91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8892FE7-2FD7-4142-A4C4-048A0AAF8E91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8892FE7-2FD7-4142-A4C4-048A0AAF8E91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8892FE7-2FD7-4142-A4C4-048A0AAF8E91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
